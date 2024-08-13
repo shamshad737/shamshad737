@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm MD Shamshad Ansari!
 
-I’m a Data Analyst with a background in Mechanical Engineering, currently working at MattsenKumar LLC. I have a strong passion for data science and love turning data into actionable insights.
+Hi, I’m MD Shamshad Ansari, an aspiring Data Analyst with a strong foundation in data science. I have developed robust analytical skills through personal projects and hands-on experience with tools like Power BI, SQL, and Python. I’m passionate about using data to uncover insights and drive informed decision-making, and I’m eager to contribute to impactful projects in the field of data analysis.
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python, SQL
